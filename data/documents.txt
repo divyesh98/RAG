@@ -1,0 +1,5 @@
+Artificial intelligence is transforming healthcare with predictive models.
+Homomorphic encryption allows computation on encrypted data.
+Large language models can generate human-like text.
+Vector databases enable efficient similarity search.
+Retrieval augmented generation improves factual accuracy.
