@@ -1,0 +1,6 @@
+sentence-transformers
+transformers
+cryptography
+pypdf2
+numpy
+openfhe
